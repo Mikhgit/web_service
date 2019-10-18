@@ -1,0 +1,9 @@
+com\murzin\servlets\servlet\ManagerServlet.class
+com\murzin\dao\UsersDAO.class
+com\murzin\servlets\servlet\LogOutServlet.class
+com\murzin\servlets\servlet\SignUpServlet.class
+com\murzin\servlets\servlet\UsersServlet.class
+com\murzin\model\User$ROLE.class
+com\murzin\dao\impl\UsersDAOImpl.class
+com\murzin\model\User.class
+com\murzin\servlets\filters\AuthorizationFilter.class

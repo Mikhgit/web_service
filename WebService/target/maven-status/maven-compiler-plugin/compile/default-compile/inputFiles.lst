@@ -1,0 +1,11 @@
+C:\IdeaProject\WebService\src\main\java\com\murzin\servlets\filters\AdminRootFilter.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\servlets\servlet\UsersServlet.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\servlets\servlet\ManagerServlet.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\servlets\filters\AuthorizationFilter.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\dao\UsersDAO.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\model\User.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\servlets\servlet\SignUpServlet.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\servlets\filters\BaseFilter.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\servlets\servlet\SingleUserServlet.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\servlets\servlet\LogOutServlet.java
+C:\IdeaProject\WebService\src\main\java\com\murzin\dao\impl\UsersDAOImpl.java
